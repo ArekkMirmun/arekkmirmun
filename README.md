@@ -62,7 +62,7 @@
 ###
 
 <div align="center">
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ArekkMirmun&theme=catppuccin-macchiato" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-ebon-nine.vercel.app?user=ArekkMirmun&theme=nightfox" alt="GitHub Streak" /></a>
 </div>
 
 ###
