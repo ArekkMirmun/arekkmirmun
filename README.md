@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://raw.githubusercontent.com/ArekkMirmun/arekkmirmun/refs/heads/main/1715149142865.jpg"  />
+  <img height="150" src="https://raw.githubusercontent.com/ArekkMirmun/arekkmirmun/refs/heads/main/banner.png"  />
 </div>
 
 ###
@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/alejandro-miranda-mu%C3%B1oz-a67a87262/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="alexmmonline@gmail.com" target="_blank">
+  <a href="mailto:alexmmonline@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
 </div>
@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm from Spain<br><br>- 📚 I'm currently learning Game Development<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm from Spain<br><br>- 📚 I'm currently learning Game Development<br>- ⚡ In my free time I enjoy researching about Unreal and Unity</p>
 
 ###
 
