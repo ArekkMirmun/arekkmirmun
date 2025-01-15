@@ -8,9 +8,13 @@
   <a href="https://www.linkedin.com/in/alejandro-miranda-mu%C3%B1oz-a67a87262/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="mailto:alexmmonline@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  <a href="https://arekk.itch.io/" target="_blank">
+    <img src="https://img.shields.io/badge/itch.io-%23FF0B34.svg?logo=Itch.io&logoColor=white" height="25" alt="gmail logo"  />
   </a>
+  <a href="https://www.linkedin.com/in/alejandro-miranda-mu%C3%B1oz-a67a87262/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  
 </div>
 
 ###
