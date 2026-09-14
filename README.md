@@ -14,10 +14,13 @@
 ###
 
 <h3 align="left">👩‍💻  About Me</h3>
+<p align="left">📚 Currently Studying at University of Granada</p>
 
 ###
 
 <p align="left">I'm from Spain<br><br>- 📚 I'm currently learning Game Development<br>- ⚡ In my free time I enjoy researching about Unreal and Unity <br>- 🥋Working on <a href="https://wastingtimestudio.com/">Temporal Thugs<a/>, a 2d multiplayer brawler</p>
+
+
 
 
 ###
